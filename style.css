@@ -182,3 +182,6 @@ text-decoration: none;
 background-color: #8D5764;
 color: #fff;
 }
+ul > li {
+    margin-left: 10px;
+}
